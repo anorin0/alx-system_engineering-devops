@@ -1,1 +1,1 @@
-task one
+script shell one
